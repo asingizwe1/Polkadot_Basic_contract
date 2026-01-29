@@ -2,9 +2,9 @@
 {
   "compilerOptions": {
     // ...existing compilerOptions...
+    "module": "ESNext",
     "target": "ES2020",
-    "module": "nodenext",
-    "moduleResolution": "nodenext",
+    "moduleResolution": "Node",
     "esModuleInterop": true,
     "resolveJsonModule": true,
     "skipLibCheck": true,
